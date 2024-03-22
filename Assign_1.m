@@ -1,6 +1,6 @@
 %SPDX-License-Identifier: MIT License
 %
-% mud.m -- Solution to the first problem set for 
+% Assign_1.m -- Solution to the first problem set for 
 % ECE210 in the Spring of 2024
 % Copyright (C) 2024 Vaibhav Hariani <vaibhav.hariani@cooper.edu>
 

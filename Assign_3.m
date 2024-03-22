@@ -1,4 +1,4 @@
-% SPDX-License-Identifier: GPL-3.0-or-later
+% SPDX-License-Identifier: MIT License
 %
 % Assign_3.m -- Assignment 03
 % Copyright (C) 2024  Vaibhav Hariani <vaibhav.hariani@cooper.edu>
