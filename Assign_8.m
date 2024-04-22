@@ -19,5 +19,5 @@ eqn3 = R * C * diff(Vc, t) + Vc == Vs;
 ySol(t) = dsolve(eqn3);
 
 digitsOld = digits(floor(1000 * pi));
-mu_0 = vpa(4 * pi * 10e-7);
 digits(digitsOld);
+mu_0 = vpa(4 * pi * 10e-7);
